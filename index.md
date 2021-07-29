@@ -7,7 +7,7 @@ to start a fresh after being caught up for some time in industry.
 
 1. [Gini](https://github.com/go-air/gini)
 2. [Reach](https://github.com/go-air/reach)
-3. This webset ;)
+3. This website ;)
 
 ## Blog
 
