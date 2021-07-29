@@ -19,7 +19,7 @@ We maintain several volatile incubator projects which
 are too premature to publish to all, but we welcome 
 enthusiasts.  If you'd like an invite to a private repo
 below, please add a note to the [Incubator](https://github.com/orgs/go-air/projects/1)
-or [mail us](scott@mindowl.com).
+or [mail us](mailto://scott@mindowl.com).
 
 Currently, these include
 
