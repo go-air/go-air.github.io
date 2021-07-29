@@ -17,3 +17,6 @@ Currently, these include
 1. six -- sat for integer expressions ([u]int{8,16,32,64}).
 2. air -- an new analysis IR for go.
 3. phidl -- a whacky blend of formulas and datalog
+
+Interested in learning more?  Contact us or see 
+[Incubator](https://github.com/go-air/projects/1)
