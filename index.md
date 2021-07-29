@@ -19,4 +19,4 @@ Currently, these include
 3. phidl -- a whacky blend of formulas and datalog
 
 Interested in learning more?  Contact us or see 
-[Incubator](https://github.com/go-air/projects/1)
+[Incubator](https://github.com/orgs/go-air/projects/1)
