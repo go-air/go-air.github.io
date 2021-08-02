@@ -30,9 +30,9 @@ in Go.
 Members can create projects, repositories and the like, but 
 are expected to do so following the contributing guidelines.
 
-We expect members to spend a significant proportion of their time
-getting into each others work.  As a result, by joining you will
-benefit from reviews, proposals, bug fixes from other members.
+We expect members to spend a significant proportion of their go-air time
+getting into each others work.  As a result, by joining you will benefit from
+reviews, proposals, bug fixes from other members.
 
 ## For Organiations
 
