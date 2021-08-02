@@ -15,7 +15,7 @@ contributing process.
 
 As a member, you will be able to
 
-1. Manage all aspects of project lifecycle (from incubation
+1. Manage all aspects of projects' lifecycles (from incubation
 to release engineering).
 1. Blog.
 1. Participate in our planning.
