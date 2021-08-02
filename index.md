@@ -18,8 +18,7 @@ Check out our [blog](blog/index.md).
 We maintain several volatile incubator project, some of which
 are too premature to publish to all, but we welcome 
 enthusiasts.  If you'd like an invite to a private repo
-below, please add a note to the [Incubator](https://github.com/orgs/go-air/projects/1)
-or [mail us](mailto://scott@mindowl.com).
+below, please [join us](join.md)
 
 Public incubator projects have stub main branches.  Development occurs on a branch named 
 `proto` and is often highly volatile and difficult to coordinate.  However, all are welcome
@@ -32,6 +31,12 @@ Currently, these repositories include
 1. six -- sat for integer expressions ([u]int{8,16,32,64}).
 2. air -- an new analysis ir for Go.
 3. phidl -- a whacky blend of formulas and datalog
+
+## Join Us!
+
+Hacking verification and analysis tools in Go is plain fun.
+Check out [joining](join.md) for more info.
+  
 
 
 
