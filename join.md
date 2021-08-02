@@ -34,6 +34,16 @@ We expect members to spend a significant proportion of their time
 getting into each others work.  As a result, by joining you will
 benefit from reviews, proposals, bug fixes from other members.
 
+## For Organiations
+
+We only accept individual members, but feel free to 
+engage us via (a sponsorship)[https://github.com/sponsors/go-air]
+
+## Questions?
+
+Contact us!
+
+
 
 
 
