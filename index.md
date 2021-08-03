@@ -1,7 +1,7 @@
 # go-air
 
-Up and running again, we archived the repos on [irifrance](https://github.com/irifrance)
-to start a fresh after being caught up for some time in industry.
+Go-air is a GitHub organisation dedicated to open development of verification
+and analysis tools in and for Go.
 
 ## Public Projects
 
