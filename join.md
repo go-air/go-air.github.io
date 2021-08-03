@@ -19,6 +19,7 @@ As a member, you will be able to
 to release engineering).
 1. Blog.
 1. Participate in our planning.
+1. Share sponsorship income.
 
 ## What we expect of members
 
