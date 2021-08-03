@@ -10,7 +10,7 @@ details.
 ## Benefits
 
 We have set up go-air with a uniform process, associated GitHub 
-tooling (like reviewable), standard CoC and a streamlined 
+tooling (like [Reviewable](https://reviewable.io)), standard CoC and a streamlined 
 contributing process.
 
 As a member, you will be able to
