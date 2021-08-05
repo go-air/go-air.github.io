@@ -15,7 +15,7 @@ Check out our [blog](blog/index.md).
 
 ## Incubator
 
-We maintain several volatile incubator project, some of which are too premature
+We maintain several volatile incubator projects, some of which are too premature
 to publish to all, but we welcome enthusiasts.  If you'd like an invite to a
 private repo below, please [join us](join.md).
 
