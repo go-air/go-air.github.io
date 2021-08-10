@@ -31,10 +31,15 @@ Currently, these repositories include
 2. air -- an new analysis ir for Go.
 3. phidl -- a whacky blend of formulas and datalog
 
-## Join Us!
+## Contributing
 
-Hacking verification and analysis tools in Go is plain fun.
-Check out [joining](join.md) for more info.
+There are many ways to contribute to Go-air.
+
+Please see our [code of conduct](https://github.com/go-air/.github/blob/main/CODE_OF_CONDUCT.md)
+and [contribution guidelines](https://github.com/go-air/.github/blob/main/CONTRIBUTING.md).
+
+If you are interested in joining Go-air, see [joining](join.md) for more info.
+
   
 
 
