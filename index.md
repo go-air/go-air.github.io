@@ -30,6 +30,7 @@ Currently, these repositories include
 1. six -- sat for integer expressions ([u]int{8,16,32,64}).
 2. air -- an new analysis ir for Go.
 3. phidl -- a whacky blend of formulas and datalog
+4. [dupi](https://github.com/go-air/dupi) -- index and extract duplicates. 
 
 ## Contributing
 
